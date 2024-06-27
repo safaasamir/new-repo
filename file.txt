@@ -1,0 +1,14 @@
+1- the track will be divided into teams each
+team will be 2 and the team will do the
+following:
+2- one of the team will create a new remote
+repo (name it as you want) and will add a
+README.md file
+3- the other teammate will clone the repo
+4- each member of the team will create a local
+branch separate from the main branch
+5- each member of the team will update the
+newly created local branch with any new content
+6- try to push updates sequentially, what
+happened and why?
+7- try step no.5 again
