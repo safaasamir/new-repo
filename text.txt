@@ -1,0 +1,7 @@
+7- try step no.5 again but this time one of the
+teams will update the same files on the same
+branch and the other will try to pull these
+updates, what happened and why?
+8- try merge (ff and no-ff(recursive)) & rebase
+9- divide your project into different releases
+(tags)
