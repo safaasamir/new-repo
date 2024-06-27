@@ -5,3 +5,6 @@ updates, what happened and why?
 8- try merge (ff and no-ff(recursive)) & rebase
 9- divide your project into different releases
 (tags)
+this is the second file
+this is file from taskthe 
+task need git

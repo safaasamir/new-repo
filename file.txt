@@ -12,3 +12,5 @@ newly created local branch with any new content
 6- try to push updates sequentially, what
 happened and why?
 7- try step no.5 again
+this file is from the task we do 
+the start we need to open and git and push 
