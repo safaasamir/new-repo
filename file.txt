@@ -14,7 +14,4 @@ happened and why?
 7- try step no.5 again
 this file is from the task we do 
 the start we need to open and git and push 
-<<<<<<< HEAD
 no yes day
-=======
->>>>>>> 1507e5f1b17d03bf01c606e9a62decf13e79fc93
