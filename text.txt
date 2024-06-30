@@ -7,8 +7,5 @@ updates, what happened and why?
 (tags)
 this is the second file
 this is file from taskthe 
-<<<<<<< HEAD
 task need githi bye good bye
-=======
 task need git
->>>>>>> 1507e5f1b17d03bf01c606e9a62decf13e79fc93
