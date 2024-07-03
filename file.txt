@@ -9,8 +9,8 @@ README.md file
 branch separate from the main branch
 5- each member of the team will update the
 newly created local branch with any new content
-6- try to push updates sequentially, what
-happened and why?
+6- i change this line
+ i change this line to
 7- try step no.5 again
 this file is from the task we do 
 the start we need to open and git and push 
